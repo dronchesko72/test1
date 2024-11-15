@@ -6,7 +6,7 @@
 }
 body{
     font-size: 2rem;
-    background-color: darkkhaki;
+    background-color: rgb(215, 218, 22);
 }
 .sq{
     list-style: square;
@@ -16,4 +16,8 @@ body{
 }
 .cir{
     list-style: disc;
+}
+
+.blue{
+    color: blue;
 }
